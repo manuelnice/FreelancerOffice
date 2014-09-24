@@ -545,27 +545,27 @@ $lang['Get_an_image_CAPTCHA'] = 'Obter um CAPTCHA de imagem';
 
 
 // Missing Language files
-$lang['year'] = 'Year';
-$lang['monthly_average'] = 'Monthly Average';
-$lang['per_month'] = 'Per Month';
+$lang['year'] = 'Ano';
+$lang['monthly_average'] = 'Média Mensal';
+$lang['per_month'] = 'Por Mês';
 
 // Missing 1.2 Untranslated words
-$lang['project_shortcuts'] = 'Project Shortcut';
-$lang['invoice_shortcuts'] = 'Invoice Shortcut';
-$lang['average_this_month'] = 'Average this Month';
-$lang['use_current'] = 'Use Current';
+$lang['project_shortcuts'] = 'Atalho projetos';
+$lang['invoice_shortcuts'] = 'Atalho faturas';
+$lang['average_this_month'] = 'Média este mês';
+$lang['use_current'] = 'Usar atual';
 $lang['admin'] = 'Admin';
-$lang['collaborator'] = 'Collaborator';
-$lang['draft'] = 'Draft';
-$lang['cash'] = 'Cash';
-$lang['project_timesheet'] = 'Project Timesheet';
-$lang['tasks_timesheet'] = 'Task Timesheet';
-$lang['type_message'] = 'Type your Message';
-$lang['filter'] = 'Filter';
-$lang['choose_file'] = 'Choose File';
-$lang['company_represantitive'] = 'This could be a company representative';
-$lang['change_if_necessary'] = 'Change if necesssary';
+$lang['collaborator'] = 'Colaborador';
+$lang['draft'] = 'Rascunho';
+$lang['cash'] = 'Dinheiro';
+$lang['project_timesheet'] = 'Horas no Projecto';
+$lang['tasks_timesheet'] = 'Horas na tarefa';
+$lang['type_message'] = 'Digite sua mensagem';
+$lang['filter'] = 'Filtro';
+$lang['choose_file'] = 'Escolha Ficheiro';
+$lang['company_represantitive'] = 'Este poderia ser um representante da empresa';
+$lang['change_if_necessary'] = 'Alterar se necessário';
 $lang['system_stats'] = 'System Stats';
-$lang['my_projects'] = 'My Projects';
+$lang['my_projects'] = 'Meus Projetos';
 
 // End of File fx_lang.php
